@@ -1,5 +1,10 @@
 Taken from getfutureproof!  Joint project with Aaron Yates.
 
+The current version mostly works but we just need to fix a couple of things:
+- [] Fix naming of custom error subclass
+- [] Integrate automatic increments/decrements of hunger/happiness levels based on time passage
+- [] Get program to close automatically when user has finished playing
+
 # Exercises
 - **Tamagotchi**: Create a text-based game in nodejs that enables us to control a pet via user input.
     - **Create a new class named Pet**. A Pet should have at least three features name, happiness level, hunger level and any more you think are important.
