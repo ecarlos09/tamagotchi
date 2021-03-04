@@ -1,7 +1,4 @@
-Taken from getfutureproof!
-
-### Study Notes
-| [Intro to Object Orientation in JavaScript](https://github.com/getfutureproof/fp_guides_wiki/wiki/Object-Orientation-in-JavaScript) | [Call, Apply & Bind](https://github.com/getfutureproof/fp_guides_wiki/wiki/Call-vs-Apply-vs-Bind) |
+Taken from getfutureproof!  Joint project with Aaron Yates.
 
 # Exercises
 - **Tamagotchi**: Create a text-based game in nodejs that enables us to control a pet via user input.
@@ -14,5 +11,3 @@ Taken from getfutureproof!
   *It is your choice as to whether you encapsulate your app logic in another class*
     - **Implement Error handling**
     - How can you make this a more engaging game? What else would be cool for your pet to do? Can the user choose the type of food they feed their pet, with the pet randomly deciding if they like it or not?
-
-*To gather user input, the [`inquirer`](https://www.npmjs.com/package/inquirer) or [`prompt-sync`](https://github.com/heapwolf/prompt-sync#readme) modules are two of many alternatives to the builtin `readline` module. It is up to you what tool you use.*
