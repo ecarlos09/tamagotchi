@@ -12,7 +12,7 @@ Taken from getfutureproof!
         - User wants to check in with their pet and see how it’s happiness and hunger levels are. \
   *Note: These will require you to create methods within your Pet class.* \
   *It is your choice as to whether you encapsulate your app logic in another class*
-    - I**mplement Error handling**
+    - **Implement Error handling**
     - How can you make this a more engaging game? What else would be cool for your pet to do? Can the user choose the type of food they feed their pet, with the pet randomly deciding if they like it or not?
 
 *To gather user input, the [`inquirer`](https://www.npmjs.com/package/inquirer) or [`prompt-sync`](https://github.com/heapwolf/prompt-sync#readme) modules are two of many alternatives to the builtin `readline` module. It is up to you what tool you use.*
