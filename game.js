@@ -1,4 +1,4 @@
-const { SecretVaultAccess } = require('./gameFuncs/gameFuncs');
+const { Tamagotchi } = require('./gameFuncs/gameFuncs');
 
-const app = new SecretVaultAccess()
-app.run()
+const app = new Tamagotchi()
+app.run();
