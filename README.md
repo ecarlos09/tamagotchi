@@ -19,7 +19,7 @@ The current version mostly works but we just need to fix a couple of things:
         - Creating a new pet and giving it a name and any other features defined
         - User wants to feed or play with their pet
         - User wants to check in with their pet and see how its happiness and hunger levels are
-        - User wants to quit* \
+        - User wants to quit* /
   *Note: We created some methods within our Pet class, while the majority of the app logic is defined within a separate Tamagotchi class* \
     - **Implementing Error handling** - we have tried to implement custom error messages
     - There is potential for the inclusion of other game features. Watch this space! 
