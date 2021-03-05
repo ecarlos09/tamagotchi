@@ -5,6 +5,13 @@ The current version mostly works but we just need to fix a couple of things:
 - [] Integrate automatic increments/decrements of hunger/happiness levels based on time passage
 - [] Get program to close automatically when user has finished playing
 
+To play:
+-* Fork and clone this repo
+-* `cd` into the directory you stored this in and open the files in your local environment (e.g. VS Code) 
+-* Open a new terminal and run `node game.js`
+-* You can quit at any time by using the "Command+C" or "Ctrl+C" shortcuts
+-* Enjoy! 
+
 # Exercises
 - **Tamagotchi**: Create a text-based game in nodejs that enables us to control a pet via user input.
     - **Create a new class named Pet**. A Pet should have at least three features name, happiness level, hunger level and any more you think are important.
