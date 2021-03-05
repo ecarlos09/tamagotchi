@@ -4,6 +4,7 @@ The current version mostly works but we just need to fix a couple of things:
 - [ ] Fix naming of custom error subclass
 - [ ] Integrate automatic increments/decrements of hunger/happiness levels based on time passage
 - [ ] Get program to close automatically when user has finished playing
+- [ ] (minor edit) refactoring some functions to remove repeated code
 
 # To play:
 - Fork and clone this repo
